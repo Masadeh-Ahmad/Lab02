@@ -1,0 +1,16 @@
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\bin\Debug\net5.0\Unit Tests and Documentation.exe
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\bin\Debug\net5.0\Unit Tests and Documentation.deps.json
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\bin\Debug\net5.0\Unit Tests and Documentation.runtimeconfig.json
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\bin\Debug\net5.0\Unit Tests and Documentation.runtimeconfig.dev.json
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\bin\Debug\net5.0\Unit Tests and Documentation.dll
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\bin\Debug\net5.0\Unit Tests and Documentation.pdb
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\obj\Debug\net5.0\Unit Tests and Documentation.csproj.AssemblyReference.cache
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\obj\Debug\net5.0\Unit Tests and Documentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\obj\Debug\net5.0\Unit Tests and Documentation.AssemblyInfoInputs.cache
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\obj\Debug\net5.0\Unit Tests and Documentation.AssemblyInfo.cs
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\obj\Debug\net5.0\Unit Tests and Documentation.csproj.CoreCompileInputs.cache
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\obj\Debug\net5.0\Unit Tests and Documentation.dll
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\obj\Debug\net5.0\refint\Unit Tests and Documentation.dll
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\obj\Debug\net5.0\Unit Tests and Documentation.pdb
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\obj\Debug\net5.0\Unit Tests and Documentation.genruntimeconfig.cache
+C:\Users\Tomcat00\Dotnet-401\Lab02\Unit Tests and Documentation\Unit Tests and Documentation\obj\Debug\net5.0\ref\Unit Tests and Documentation.dll
